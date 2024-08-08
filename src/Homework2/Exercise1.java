@@ -1,6 +1,6 @@
 package Homework2;
 
-public class exercise1 {
+public class Exercise1 {
     public static void main(String[] args) {
         String[] words = {"Это", "шашлык", "на", "шампуре"};
 

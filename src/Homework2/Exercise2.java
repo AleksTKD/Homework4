@@ -1,6 +1,6 @@
 package Homework2;
 
-public class exercise2 {
+public class Exercise2 {
     public static void main(String[] args) {
         int[][] arrayOfNumbers = new int[10][10];
         arrayOfNumbers[0] = new int[]{131, 1, 1, 1, 1, 1, 1, 1, 1, 102};

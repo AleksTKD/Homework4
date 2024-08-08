@@ -2,7 +2,7 @@ package Homework2;
 
 import java.util.Random;
 
-public class exercise3 {
+public class Exercise3 {
     public static void main(String[] args) {
         //Дан распределитель случайных чисел
         Random random = new Random(1);
