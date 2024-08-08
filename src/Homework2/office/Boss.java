@@ -4,15 +4,17 @@ package Homework2.office;
  *  Класс босс
  */
 public class Boss {
-    String nameBoss = "";
+    private String name;
 
-    public Boss (String nameBoss) {
-        this.name = nameBoss;
+    public Boss(String name) {
+        this.name = name;
     }
+
     public String getName() {
-        return nameBoss;
+        return name;
     }
-    public void phraseManager(String nameManager) {
-        System.out.println(nameManager + "быстрее!");
+
+    public void pushManager(String managerName) {
+        System.out.println(managerName + " быстрее!");
     }
 }

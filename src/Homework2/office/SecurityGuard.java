@@ -4,14 +4,16 @@ package Homework2.office;
  *  Класс охранник
  */
 public class SecurityGuard {
-    String nameSecurityGuard = "";
+    private String name;
 
-    public SecurityGuard(String nameSecurityGuard) {
-        this.name = nameSecurityGuard;
+    public SecurityGuard(String name) {
+        this.name = name;
     }
+
     public String getName() {
-        return nameSecurityGuard;
+        return name;
     }
+
     public void askForAdvance() {
         System.out.println("Выдайте мне аванс!");
     }

@@ -4,15 +4,17 @@ package Homework2.office;
  *  Класс менеджер
  */
 public class Manager {
-    String nameManager = "";
+    private String name;
 
-    public Manager (String nameManager) {
-        this.name = nameManager;
+    public Manager(String name) {
+        this.name = name;
     }
+
     public String getName() {
-        return nameManager;
+        return name;
     }
-    public void managerScream () {
+
+    public void scream() {
         System.out.println("Я ничего не успеваю, помогите!");
     }
 }

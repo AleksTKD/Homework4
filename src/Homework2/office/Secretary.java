@@ -3,9 +3,8 @@ package Homework2.office;
  *  Класс секретарь
  */
 public class Secretary {
-    public void dontWorry (Boss, Manager , SecurityGuard) {
+    public void calmDown(Boss boss, Manager manager, SecurityGuard guard) {
         System.out.println(boss.getName() + " не волнуйтесь, " + manager.getName() + " все успеет. " + guard.getName()
                 + " - подождите!");
     }
-}
 }
