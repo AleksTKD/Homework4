@@ -1,11 +1,11 @@
-package homework3.homework4.ex4;
+package homework4.ex4;
 
-import homework3.homework4.ex4.exceptions.CannotAttackException;
-import homework3.homework4.ex4.exceptions.CannotRunException;
-import homework3.homework4.ex4.herbivore.Elephant;
-import homework3.homework4.ex4.herbivore.Rabbit;
-import homework3.homework4.ex4.predators.Tiger;
-import homework3.homework4.ex4.predators.Wolf;
+import homework4.ex4.exceptions.CannotAttackException;
+import homework4.ex4.exceptions.CannotRunException;
+import homework4.ex4.herbivore.Elephant;
+import homework4.ex4.herbivore.Rabbit;
+import homework4.ex4.predators.Tiger;
+import homework4.ex4.predators.Wolf;
 
 public class Runner {
     public static void main(String[] args) {

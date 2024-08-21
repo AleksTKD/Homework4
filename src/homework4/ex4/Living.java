@@ -1,4 +1,4 @@
-package homework3.homework4.ex4;
+package homework4.ex4;
 
 public abstract class Living {
     private boolean isAlive;

@@ -1,4 +1,4 @@
-package homework3.homework4.ex4.predators;
+package homework4.ex4.predators;
 
 public class Wolf extends Predator {
     public Wolf(double weight) {

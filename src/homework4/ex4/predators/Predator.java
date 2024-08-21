@@ -1,7 +1,7 @@
-package homework3.homework4.ex4.predators;
+package homework4.ex4.predators;
 
-import homework3.homework4.ex4.exceptions.CannotAttackException;
-import homework3.homework4.ex4.Living;
+import homework4.ex4.exceptions.CannotAttackException;
+import homework4.ex4.Living;
 
 public abstract class Predator extends Living {
     public Predator(double weight) {

@@ -1,4 +1,4 @@
-package homework3.homework4.ex2;
+package homework4.ex2;
 
 public class Runner {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package homework3.homework4.ex4.herbivore;
+package homework4.ex4.herbivore;
 
-import homework3.homework4.ex4.exceptions.CannotRunException;
+import homework4.ex4.exceptions.CannotRunException;
 
 public class Rabbit extends Herbivore {
     public Rabbit(double weight) {

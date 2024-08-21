@@ -1,7 +1,7 @@
-package homework3.homework4.ex4.herbivore;
+package homework4.ex4.herbivore;
 
-import homework3.homework4.ex4.exceptions.CannotRunException;
-import homework3.homework4.ex4.Living;
+import homework4.ex4.exceptions.CannotRunException;
+import homework4.ex4.Living;
 
 public abstract class Herbivore extends Living {
     public Herbivore(double weight) {

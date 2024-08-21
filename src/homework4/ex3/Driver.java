@@ -1,4 +1,4 @@
-package homework3.homework4.ex3;
+package homework4.ex3;
 
 public class Driver extends Human {
     @Override

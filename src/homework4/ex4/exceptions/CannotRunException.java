@@ -1,4 +1,4 @@
-package homework3.homework4.ex4.exceptions;
+package homework4.ex4.exceptions;
 
 public class CannotRunException extends Exception {
     public CannotRunException(String message) {

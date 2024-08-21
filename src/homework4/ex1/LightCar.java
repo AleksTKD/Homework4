@@ -1,4 +1,4 @@
-package homework3.homework4.ex1;
+package homework4.ex1;
 
 public class LightCar implements Washing {
     private boolean isDirty;
